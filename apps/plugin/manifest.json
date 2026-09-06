@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "local.desktop-apps",
+  "name": "Desktop Apps",
+  "version": "1.0.0",
+  "description": "A clickable app drawer widget on the wallpaper of each screen",
+  "kinds": ["service"],
+  "entryPoints": {"service": "DesktopApps.qml"}
+}
